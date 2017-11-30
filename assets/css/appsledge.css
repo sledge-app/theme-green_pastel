@@ -1107,7 +1107,7 @@ div.sg_text_columns { column-rule: 1px solid rgb(228, 245, 212); }
 .sg-color-scheme-2-text, a.sg-color-scheme-2-text { color: rgb(228, 245, 212) !important; }
 .sg-color-scheme-3-text, a.sg-color-scheme-3-text { color: rgb(209, 238, 183) !important; }
 .sg-color-scheme-4-text, a.sg-color-scheme-4-text { color: rgb(160, 211, 114) !important; }
-.sg-color-scheme-5-text, a.sg-color-scheme-5-text { color: rgb(128, 185, 77) !important; }
+.sg-color-scheme-5-text, a.sg-color-scheme-5-text { color: rgb(189, 231, 152) !important; }
 .sg-color-scheme-6-text, a.sg-color-scheme-6-text { color: rgb(10, 10, 10) !important; }
 .sg-color-scheme-7-text, a.sg-color-scheme-7-text { color: rgb(254, 254, 254) !important; }
 .sg-color-scheme-8-text, a.sg-color-scheme-8-text { color: rgb(230, 230, 230) !important; }
@@ -1136,7 +1136,7 @@ div.sg_text_columns { column-rule: 1px solid rgb(228, 245, 212); }
 .sg-color-scheme-2, a.sg-color-scheme-2 { background-color: rgb(228, 245, 212); }
 .sg-color-scheme-3, a.sg-color-scheme-3 { background-color: rgb(209, 238, 183); }
 .sg-color-scheme-4, a.sg-color-scheme-4 { background-color: rgb(160, 211, 114); }
-.sg-color-scheme-5, a.sg-color-scheme-5 { background-color: rgb(128, 185, 77); }
+.sg-color-scheme-5, a.sg-color-scheme-5 { background-color: rgb(189, 231, 152); }
 .sg-color-scheme-6, a.sg-color-scheme-6 { background-color: rgb(10, 10, 10); }
 .sg-color-scheme-7, a.sg-color-scheme-7 { background-color: rgb(254, 254, 254); }
 .sg-color-scheme-8, a.sg-color-scheme-8 { background-color: rgb(230, 230, 230); }
@@ -1165,7 +1165,7 @@ div.sg_text_columns { column-rule: 1px solid rgb(228, 245, 212); }
 .sg-color-scheme-2-stroke { stroke: rgb(228, 245, 212) !important; }
 .sg-color-scheme-3-stroke { stroke: rgb(209, 238, 183) !important; }
 .sg-color-scheme-4-stroke { stroke: rgb(160, 211, 114) !important; }
-.sg-color-scheme-5-stroke { stroke: rgb(128, 185, 77) !important; }
+.sg-color-scheme-5-stroke { stroke: rgb(189, 231, 152) !important; }
 .sg-color-scheme-6-stroke { stroke: rgb(10, 10, 10) !important; }
 .sg-color-scheme-7-stroke { stroke: rgb(254, 254, 254) !important; }
 .sg-color-scheme-8-stroke { stroke: rgb(230, 230, 230) !important; }
@@ -1198,8 +1198,8 @@ div.sg_text_columns { column-rule: 1px solid rgb(228, 245, 212); }
 .sg-color-scheme-3-title li.menu-text { color: rgb(209, 238, 183); }
 .sg-color-scheme-4-link li a { color: rgb(160, 211, 114); }
 .sg-color-scheme-4-title li.menu-text { color: rgb(160, 211, 114); }
-.sg-color-scheme-5-link li a { color: rgb(128, 185, 77); }
-.sg-color-scheme-5-title li.menu-text { color: rgb(128, 185, 77); }
+.sg-color-scheme-5-link li a { color: rgb(189, 231, 152); }
+.sg-color-scheme-5-title li.menu-text { color: rgb(189, 231, 152); }
 .sg-color-scheme-6-link li a { color: rgb(10, 10, 10); }
 .sg-color-scheme-6-title li.menu-text { color: rgb(10, 10, 10); }
 .sg-color-scheme-7-link li a { color: rgb(254, 254, 254); }
